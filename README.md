@@ -13,28 +13,10 @@ I've contributed to multiple Roblox experiences with millions of visits, working
 🛠️ Tools & Technologies
 
 Rojo
-
 Knit
-
 ProfileStore
-
 Fusion
-
 Git
-
-🔧 Interested in
-
-Gameplay systems
-
-Game architecture
-
-Data systems
-
-Networking
-
-UI
-
-Developer tooling
 
 I'm trying to improve my programming skills.
 
